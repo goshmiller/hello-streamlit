@@ -24,7 +24,7 @@ def run():
         page_icon="👋",
     )
 
-    st.write("# Welcome to Streamlit! 👋")
+    st.write("# :balloon: Welcome to Streamlit! 👋")
 
     st.sidebar.success("Select a demo above.")
 
@@ -32,6 +32,7 @@ def run():
         """
         Streamlit is an open-source app framework built specifically for
         Machine Learning and Data Science projects.
+        But what about people that are not smart?
         **👈 Select a demo from the sidebar** to see some examples
         of what Streamlit can do!
         ### Want to learn more?
