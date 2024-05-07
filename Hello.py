@@ -32,7 +32,7 @@ def run():
         """
         Streamlit is an open-source app framework built specifically for
         Machine Learning and Data Science projects.
-        But what about people that are not smart?
+        It is also for pianists who bloom late in life.
         **👈 Select a demo from the sidebar** to see some examples
         of what Streamlit can do!
         ### Want to learn more?
